@@ -1,4 +1,10 @@
-# :wave: The Basics of GitHub 
+# 
+Hi I'm Hailey Werth
+I am learning how to create & use a repo, manage branches, commit changes and open/merge a pull request
+
+
+
+:wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
